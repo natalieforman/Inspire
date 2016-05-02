@@ -1,0 +1,7 @@
+http://www.aiga.org/,AIGA,the professional association for design
+http://www.awwwards.com/,AWWWARDS,award winning websites
+http://www.siteinspire.com/,siteinspire,similar to AWWWARDS
+https://validator.w3.org/,HTML validator,validate HTML
+http://www.flaticon.com/,Flaticon,free icons
+http://subtlepatterns.com/,Subtle Patterns,free background images
+https://www.reddit.com/r/webdev/,WebDev reddit,interesting forum

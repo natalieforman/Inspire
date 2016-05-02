@@ -1,0 +1,253 @@
+/*
+navy #024959
+light navy #037EBC
+white #FFFFFA
+red #F24C27
+grey #B1BDBD
+
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Alfa+Slab+One);
+
+body{
+  background-color: #FFFFFA;
+  background-image: url("../assets/geo.png");
+}
+
+/*HEADERS*/
+h1 a{
+  font-size: 64px;
+  text-align: center;
+  padding-top: 20px;
+  text-decoration: none;
+  color: #fff;
+}
+h1 a:hover{
+  color: #FFF;
+  text-decoration: underline;
+}
+h1{
+  text-align: center;
+  padding-top: 20px;
+  font-family: "Alfa Slab One";
+  letter-spacing: 2px;
+}
+
+h2{
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 20px;
+}
+
+/*PERSISTENT HEAD AND FOOT*/
+.wrapper-head{
+  background-color: #024959;
+  color: #FFFFFA;
+  margin-bottom: 20px;
+    margin-bottom: 40px;
+}
+
+.wrapper-footer{
+  background-color: #024959;
+  color: #FFFFFA;
+  text-align: center;
+  padding-top: 20px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+/*MODULE STYLES*/
+.login{
+  text-align: center;
+  background-color: #FFFFFA;
+  padding: 20px 10px 10px 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px #B1BDBD;
+  margin-top: 40px;
+}
+
+.login:hover{
+  background-color: #024959;
+}
+
+.login:hover a{
+  color: #FFFFFA;
+}
+
+.login a{
+  color: #037EBC;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ul.checkbox li { 
+  border: 1px transparent solid; 
+  display:inline-block;
+  width:190px;
+}
+
+h2 span{
+  color: #F24C27;
+  font-weight: bold;
+  font-size: 28px;
+}
+
+form strong{
+  float: left;
+  width: 100px;
+}
+
+/*PROFILE CARD*/
+.bookmark{
+  background-color: #fff;
+  margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #B1BDBD;
+}
+
+.bookmark h3{
+  text-align: center;
+  background-color: #037EBC;
+  color: #fff;
+  padding: 6px 0 6px 0;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0px;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+
+.bookmark dd{
+  font-size: 12px;
+}
+
+.profile h2{
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.addItem input[type="submit"]{
+  display: inline-block;
+}
+
+form{
+  background-color: #FFF;
+}
+
+fieldset{
+  padding:10px 10px 0 10px;
+}
+
+form h3{
+  background-color: #037EBC;
+  color: #FFF;
+  font-size: 20px;
+  padding: 5px;
+}
+
+dl{
+  height: 250px;
+  background-color: #FFF;
+  padding: 5px 0px 5px 10px;
+  overflow: hidden;
+  overflow-y:scroll;
+  margin:0px;
+}
+
+.add h3{
+  margin: 0px;
+  font-weight: bold;
+  letter-spacing: .5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #024959;
+}
+a{
+  color: #037EBC;
+}
+
+dt a{
+  font-weight: bold;
+}
+
+a:hover{
+  color: #024959;
+}
+
+/*FORMATTING OF ADD FUNCTIONS*/
+.bookmark.newLink h3{
+  background-color: #024959;
+  color: #fff;
+}
+
+.add form, .bookmark.newLink form, .bookmark.newLink{
+  background-color: #DFDFDF;
+    border-radius: 5px;
+}
+
+.bookmark.newLink form input,.bookmark.newLink form select{
+  background-color: #EFEFEF;
+}
+
+.bookmark.newLink form input[type="submit"]{
+  background-color: #024959;
+  color: #fff;
+}
+
+.bookmark.newLink form input[type="submit"]:hover{
+  background-color: #fff;
+  color: #024959;
+}
+
+#newCard, #newLink{
+  display: none;
+}
+
+.buttons button{
+  display: inline-block;
+  width: 130px;
+}
+
+.buttons{
+text-align: center;
+}
+
+/*DELETE Icon*/
+.bookmark img{
+  float: right;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+.bookmark img{
+  cursor: pointer;
+}
+
+.alert{
+  font-size: 18px;
+  font-weight: bold;
+  color: #F24C27;
+  text-align: center
+}
+
+.alert p{
+  margin-bottom: 0px;
+}
+
+.registered{
+  padding: 10px;
+  background-color: #FFF;
+    margin-top: 10px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 1px #B1BDBD;
+}

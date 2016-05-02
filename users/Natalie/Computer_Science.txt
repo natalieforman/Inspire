@@ -1,0 +1,11 @@
+https://drive.google.com/folderview?id=0B8SgxwI5TqlYanNCZFBWS0lYakU&usp=sharing,Learn GitHub UPE,presentation notes
+https://drive.google.com/a/student.american.edu/folderview?id=0Byw5r0qnlJiHVHZfMGtybERrTDA&usp=sharing,Professional Notes UPE,from presentation
+http://www.homeandlearn.co.uk/php/php.html,Beginners PHP,class suggestion
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/#awesm=~owWaKbpGqnC0Vd,GitHub for Beginners,help?
+http://gitreal.codeschool.com/?utm_source=github&utm_medium=codeschool_option&utm_campaign=trygit,Code School Git,super intense UI
+http://coursescript.com/notes/interactivecomputing/drawing/index.html,Drawing with p5.js,Capstone help
+http://htmldog.com/guides/javascript/beginner/makingstuffhappen/, JavaScript with HTML
+https://www.topcoder.com/,CSC competitions,win some money?
+https://d3js.org/,D3.js,data driven javascript
+http://codepen.io/,CodePen,
+https://generalassemb.ly/,General Assembly,Classes
